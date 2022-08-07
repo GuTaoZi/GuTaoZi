@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='right' src='C:\Users\first_fan\Desktop\图片2.jpg' width='400px'>  
+<img align='right' src='https://s2.loli.net/2022/08/08/z5PWuEqYxrah3sc.jpg' width='400px'>  
 
 ### 初次见面的人初次见面，在下咕桃
 
