@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<img align='right' src='C:\Users\first_fan\Desktop\图片2.jpg' width='400px'>  
+
+### 初次见面的人初次见面，在下咕桃
+
+- 🎓Sophomore [@SUSTech](sustech.edu.cn)
+- 🏅Retired Oier
+- 💮ACGN lover
+
+```
+//This page is currently under construction. See you soon!
+```
+
 <!--
 **GuTaoZi/GuTaoZi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
