@@ -2,15 +2,18 @@
 
 ### Hi there 👋
 
-### 初次见面的人初次见面，在下咕桃
+### 初次见面的人初次见面，在下咕桃。
+
+Glad to meet you for the 1st time, 1st time meeter. 
+
+I'm GuTao(Cuckoo Peach)
 
 - 🎓Sophomore [@SUSTech](sustech.edu.cn)
-- 🏅Retired Oier
+- 🏅Retired OIer
 - 💮ACGN lover
-
-```
-//This page is currently under construction. See you soon!
-```
+- ✍️Fighting with tough courses(
+- 🌱Currently learning Python / Rust(Corresponding to↓
+- 🕹️Newbie in AI / OS
 
 <!--
 **GuTaoZi/GuTaoZi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
