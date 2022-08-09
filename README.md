@@ -1,4 +1,4 @@
-<img align='left' src='https://s2.loli.net/2022/08/09/HmPDTaNkhzjSZMd.png' width='500px'>  
+<img align='left' src='https://s2.loli.net/2022/08/09/HmPDTaNkhzjSZMd.png' width='450px'>  
 
 ### 初次见面的人初次见面，在下咕桃。
 
