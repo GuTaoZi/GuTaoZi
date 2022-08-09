@@ -1,10 +1,8 @@
-<img align='left' src='https://s2.loli.net/2022/08/09/HmPDTaNkhzjSZMd.png' width='400px'>  
-
-### Hi there 👋
+<img align='left' src='https://s2.loli.net/2022/08/09/HmPDTaNkhzjSZMd.png' width='500px'>  
 
 ### 初次见面的人初次见面，在下咕桃。
 
-Glad to meet you for the 1st time, 1st time meeter. 
+👋Glad to meet you for the 1st time, 1st time meeter. 
 
 I'm GuTao(Cuckoo Peach)
 
@@ -16,6 +14,8 @@ I'm GuTao(Cuckoo Peach)
 - 🕹️Newbie in AI / OS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutaozi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutaozi&count_private=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
 **GuTaoZi/GuTaoZi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutaozi&count_private=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)  
+
 -->
