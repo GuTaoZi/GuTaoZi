@@ -1,4 +1,4 @@
-<img align='right' src='https://s2.loli.net/2022/08/08/z5PWuEqYxrah3sc.jpg' width='400px'>  
+<img align='left' src='https://s2.loli.net/2022/08/09/HmPDTaNkhzjSZMd.png' width='400px'>  
 
 ### Hi there 👋
 
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
+-->
