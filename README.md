@@ -1,10 +1,8 @@
 <img align='left' src='https://s2.loli.net/2022/08/09/HmPDTaNkhzjSZMd.png' width='450px'>  
 
-### 初次见面的人初次见面，在下咕桃。
+### 👋初次见面的人初次见面，在下咕桃。
 
-### Glad to meet you for the 1st time, 1st time meeter. 
-
-### I'm GuTao(Cuckoo Peach)
+### Glad to meet you for the 1st time, 1st time meeter. I'm GuTao(Cuckoo Peach).
 
 - 🎓Sophomore [@SUSTech](sustech.edu.cn)
 - 🏅Retired OIer
