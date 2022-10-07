@@ -2,7 +2,7 @@
 
 ### 👋初次见面的人初次见面，在下咕桃。
 
-### Glad to meet you for the 1st time, 1st time meeter. I'm GuTao(Cuckoo Peach).
+### はじめましての人ははじめまして、GuTaoと申します。
 
 - 🎓Sophomore [@SUSTech](sustech.edu.cn)
 - 🏅Retired OIer
