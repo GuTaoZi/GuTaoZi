@@ -8,7 +8,7 @@
 - 🏅Retired OIer
 - 💮ACGN lover
 - ✍️Fighting with tough courses(
-- 🌱Currently learning Python / Rust(Corresponding to↓
+- 🌱Currently learning C / Cpp
 - 🕹️Newbie in AI / OS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutaozi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
