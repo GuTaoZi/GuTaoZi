@@ -6,7 +6,7 @@
 
 - 🎓Sophomore [@SUSTech](sustech.edu.cn)
 - 🏅Retired OIer
-- 💮ACGN lover
+- 💮ACGN fan
 - ✍️Fighting with tough courses(
 - 🌱Currently learning C / Cpp
 - 🕹️Newbie in AI / OS
