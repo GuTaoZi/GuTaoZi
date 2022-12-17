@@ -4,8 +4,7 @@
 
 ### はじめましての人ははじめまして、GuTaoと申します。
 
-- 🎓Sophomore [@SUSTech](sustech.edu.cn)
-- 🏅Retired OIer
+- 🎓CSE Sophomore [@SUSTech](sustech.edu.cn)
 - 💮ACGN fan
 - ✍️Fighting with tough courses(
 - 🌱Currently learning C / Cpp
