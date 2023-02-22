@@ -10,9 +10,9 @@
 - 🌱Currently learning C / Cpp
 - 🕹️Newbie in AI / OS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutaozi&layout=compact)](https://github.com/GuTaoZi/github-readme-stats)
+[![Top Langs](https://github-readme-stats-psi-nine-82.vercel.app/api/top-langs/?username=gutaozi&layout=compact)](https://github.com/GuTaoZi/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutaozi&count_private=true&show_icons=true&hide_rank=true)](https://github.com/GuTaoZi/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats-psi-nine-82.vercel.app/api?username=gutaozi&count_private=true&show_icons=true&hide_rank=true)](https://github.com/GuTaoZi/github-readme-stats)  
 
 <!--
 **GuTaoZi/GuTaoZi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
