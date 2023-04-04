@@ -1,4 +1,4 @@
-<img align='left' src='https://s2.loli.net/2022/08/09/HmPDTaNkhzjSZMd.png' width='450px'>  
+<img align='left' src='https://s2.loli.net/2023/04/04/flOV4WQkceXbuRs.png' width='450px'>  
 
 ### 👋初次见面的人初次见面，在下咕桃。
 
@@ -7,8 +7,8 @@
 - 🎓CSE Sophomore [@SUSTech](https://www.sustech.edu.cn/)
 - 💮ACGN fan
 - ✍️Fighting with tough courses(
-- 🌱Currently learning C / Cpp
-- 🕹️Newbie in AI / OS
+- 🌱Currently learning Python / Assembly
+- 🕹️Course list: Computer Organization, Computer Networks, Algorithm Design & Analysis, Operating System, Artificial Intelligence.
 
 [![Top Langs](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api/top-langs/?username=gutaozi&layout=compact)](https://github.com/GuTaoZi/github-readme-stats)
 
