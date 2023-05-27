@@ -10,7 +10,7 @@
 - 🌱Currently learning Python / Assembly
 - 🕹️Course list: Computer Organization, Computer Networks, Algorithm Design & Analysis, Operating System, Artificial Intelligence.
 
-[![Top Langs](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api/top-langs/?username=gutaozi&layout=compact&exclude_repo=GuTaoZi.github.io,CS102_Project_Othello,FeatherCPU)](https://github.com/GuTaoZi/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api/top-langs/?username=gutaozi&layout=compact&exclude_repo=GuTaoZi.github.io,CS102_Project_Othello)](https://github.com/GuTaoZi/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api?username=gutaozi&count_private=true&show_icons=true&hide_rank=true)](https://github.com/GuTaoZi/github-readme-stats)  
 
