@@ -1,18 +1,15 @@
-<img align='left' src='https://s2.loli.net/2023/04/04/flOV4WQkceXbuRs.png' width='450px'>  
+### 👋Hi, this is Gu Tao.
 
-### 👋初次见面的人初次见面，在下咕桃。
+- 🎓Junior UG @Turing class, [CSE](https://cse.sustech.edu.cn/), [SUSTech](https://www.sustech.edu.cn/)
+- 🌱Currently exploring evolutionary learning with [EMI Group](https://github.com/EMI-Group)
+- 🕹️Course list: Machine Learning, Object-Oriented Analysis & Design, not-decide-yet
+- 📫Contact me: [gutao.official@gmail.com](mailto:gutao.official@gmail.com)
+- 📖[Tao's Blog](https://gutaozi.github.io)
 
-### はじめましての人ははじめまして、GuTaoと申します。
-
-- 🎓CSE Sophomore [@SUSTech](https://www.sustech.edu.cn/)
-- 💮ACGN fan
-- ✍️Fighting with tough courses(
-- 🌱Currently learning Python / Assembly
-- 🕹️Course list: Computer Organization, Computer Networks, Algorithm Design & Analysis, Operating System, Artificial Intelligence.
 
 [![Top Langs](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api/top-langs/?username=gutaozi&layout=compact&exclude_repo=GuTaoZi.github.io,CS102_Project_Othello)](https://github.com/GuTaoZi/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api?username=gutaozi&count_private=true&show_icons=true&hide_rank=true)](https://github.com/GuTaoZi/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api?username=gutaozi&count_private=true&show_icons=true&hide_rank=false)](https://github.com/GuTaoZi/github-readme-stats)  
 
 <!--
 **GuTaoZi/GuTaoZi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
