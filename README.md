@@ -1,6 +1,6 @@
 ### 👋Hi, this is Gu Tao.
 
-- 🎓Junior UG @Turing class, [CSE](https://cse.sustech.edu.cn/), [SUSTech](https://www.sustech.edu.cn/)
+- 🎓Junior UG @Turing class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
 - 🌱Currently exploring evolutionary learning with [EMI Group](https://github.com/EMI-Group)
 - 🕹️Course list: Machine Learning, Object-Oriented Analysis & Design, not-decide-yet
 - 📫Contact me: [gutao.official@gmail.com](mailto:gutao.official@gmail.com)
