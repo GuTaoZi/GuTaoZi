@@ -2,7 +2,7 @@
 
 - 🎓Junior UG @Turing class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
 - 🌱Currently working on Jinux, a Rust Operating System 
-- 🕹️Course list: Machine Learning, Object-Oriented Analysis & Design, Compilers, Computer Security
+- 🕹️Course list: Machine Learning, Compilers, Computer Security
 - 📫Contact me: [gutao.official@gmail.com](mailto:gutao.official@gmail.com)
 - 📖[Tao's Blog](https://gutaozi.github.io)
 
