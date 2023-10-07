@@ -1,4 +1,4 @@
-### 👋Hi, this is Gu Tao.
+### [👋Hi, this is Gu Tao.](https://gutaozi.github.io/about/)
 
 - 🎓Junior UG @Turing class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
 - 🌱Currently working on Jinux, a Rust Operating System 
