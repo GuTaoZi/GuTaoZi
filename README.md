@@ -7,7 +7,7 @@
 - 📖[Tao's Blog](https://gutaozi.github.io)
 
 
-[![Top Langs](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api/top-langs/?username=gutaozi&layout=compact&exclude_repo=GuTaoZi.github.io,CS102_Project_Othello)](https://github.com/GuTaoZi/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api/top-langs/?username=gutaozi&layout=compact&exclude_repo=GuTaoZi.github.io,CS102_Project_Othello,CS329_Machine_Learning)](https://github.com/GuTaoZi/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api?username=gutaozi&count_private=true&show_icons=true&hide_rank=false)](https://github.com/GuTaoZi/github-readme-stats)  
 
