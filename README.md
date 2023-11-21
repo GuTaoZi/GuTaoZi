@@ -1,7 +1,7 @@
 ### [👋Hi, this is Site Fan (nickname as Gu Tao).](https://gutaozi.github.io/about/)
 
 - 🎓Junior UG @Turing Honor Class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
-- 🌱Currently working on Jinux, a Rust Operating System 
+- 🌱Currently working on Jinux, a Rust Operating System with [TeeCert Lab](https://teecertlabs.com/), supervised by [Prof.Yinqian Zhang](https://yinqian.org/).
 - 🕹️Course list: Machine Learning, Compilers, Computer Security
 - 📫Contact me: [gutao.official@gmail.com](mailto:gutao.official@gmail.com)
 - 📖[My Blog based on GitHub Pages](https://gutaozi.github.io)
