@@ -1,10 +1,10 @@
-### [👋Hi, this is Gu Tao.](https://gutaozi.github.io/about/)
+### [👋Hi, this is Site Fan (nickname as Gu Tao).](https://gutaozi.github.io/about/)
 
-- 🎓Junior UG @Turing class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
+- 🎓Junior UG @Turing Honor Class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
 - 🌱Currently working on Jinux, a Rust Operating System 
 - 🕹️Course list: Machine Learning, Compilers, Computer Security
 - 📫Contact me: [gutao.official@gmail.com](mailto:gutao.official@gmail.com)
-- 📖[Tao's Blog](https://gutaozi.github.io)
+- 📖[My Blog based on GitHub Pages](https://gutaozi.github.io)
 
 
 [![Top Langs](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api/top-langs/?username=gutaozi&layout=compact&exclude_repo=GuTaoZi.github.io,CS102_Project_Othello,CS329_Machine_Learning)](https://github.com/GuTaoZi/github-readme-stats)
