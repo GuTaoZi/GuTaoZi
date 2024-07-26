@@ -1,6 +1,6 @@
 ### [👋Hi, this is Site Fan (nickname as Gu Tao).](https://gutaozi.github.io/about/)
 
-- 🎓Junior UG @Turing Class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
+- 🎓Senior UG @Turing Class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
 - 🌱Currently working as a research intern [@OrderLab](https://orderlab.io/), [UMich](https://umich.edu/)
 - 📫Contact me: [gutao.official@gmail.com](mailto:gutao.official@gmail.com)
 - 📖[Blog powered by GitHub Pages](https://gutaozi.github.io)
