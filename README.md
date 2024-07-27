@@ -5,10 +5,13 @@
 - 📫Contact me: [gutao.official@gmail.com](mailto:gutao.official@gmail.com)
 - 📖[Blog powered by GitHub Pages](https://gutaozi.github.io)
 
-
+<!--
 [![Top Langs](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api/top-langs/?username=gutaozi&layout=compact&exclude_repo=GuTaoZi.github.io,CS329_Machine_Learning)](https://github.com/GuTaoZi/github-readme-stats)
+-->
 
-[![Anurag's GitHub stats](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api?username=gutaozi&count_private=true&show_icons=true&hide_rank=false)](https://github.com/GuTaoZi/github-readme-stats)  
+[![GuTao's GitHub stats](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api?username=gutaozi&count_private=true&show_icons=true&hide_rank=false)](https://github.com/GuTaoZi/github-readme-stats)  
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,java,matlab,kotlin,zig,regex,js,css,html,md,latex,opencv,redis,mysql,sqlite,postgres,pytorch,sklearn,docker,kubernetes,gcp,cmake,anaconda,gradle,maven,nodejs,grafana,prometheus,electron,flask,vue,linux,kali,redhat,git,github,ae,ai,au,ps,pr)](https://skillicons.dev)
 
 <!--
 **GuTaoZi/GuTaoZi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
