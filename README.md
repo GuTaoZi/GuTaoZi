@@ -3,8 +3,8 @@
 - 🎓Senior UG @Turing Class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
 - 🌱Working on undergraduate research project [@HPCLab](https://github.com/SUSTech-HPCLab)
 - 🌎Remote research intern [@OrderLab](https://orderlab.io/), [UMich](https://umich.edu/)
-- 📫Contact me: [gutao.official@gmail.com](mailto:gutao.official@gmail.com)
-- 📖[Blog powered by GitHub Pages](https://gutaozi.github.io/about/)
+- 📫Contact me: [sitefan.official@gmail.com](mailto:sitefan.official@gmail.com)
+- 📖[Blog powered by GitHub Pages](https://site-fan.github.io/)
 
 <!--
 [![Top Langs](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api/top-langs/?username=gutaozi&layout=compact&exclude_repo=GuTaoZi.github.io,CS329_Machine_Learning)](https://github.com/GuTaoZi/github-readme-stats)
