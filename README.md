@@ -1,10 +1,10 @@
-### [👋Hi, this is Site Fan (nickname as Gu Tao).](https://gutaozi.github.io/about/)
+### [👋Hi, this is Site Fan (nickname as Gu Tao).](https://fanst.cc/)
 
 - 🎓Senior UG @Turing Class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
 - 🌱Working on undergraduate research project [@HPCLab](https://github.com/SUSTech-HPCLab)
-- 🌎Previous remote research intern [@OrderLab](https://orderlab.io/), [UMich](https://umich.edu/)
+- 🌎Remote research intern [@OrderLab](https://orderlab.io/), [UMich](https://umich.edu/)
 - 📫Contact me: [sitefan.official@gmail.com](mailto:sitefan.official@gmail.com)
-- 📖[Blog powered by GitHub Pages](https://site-fan.github.io/)
+- 📖[My Blog](https://fanst.cc/)
 
 <!--
 [![Top Langs](https://github-readme-stats-mosa-bunrh04w5-gutaozi.vercel.app/api/top-langs/?username=gutaozi&layout=compact&exclude_repo=GuTaoZi.github.io,CS329_Machine_Learning)](https://github.com/GuTaoZi/github-readme-stats)
