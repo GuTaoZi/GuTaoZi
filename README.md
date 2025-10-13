@@ -1,8 +1,7 @@
-### [👋Hi, this is Site Fan (nickname as Gu Tao).](https://fanst.cc/)
+### [👋Hi, this is Site Fan.](https://fanst.cc/)
 
-- 🎓Senior UG @Turing Class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
-- 🌱Working on undergraduate research project [@HPCLab](https://github.com/SUSTech-HPCLab)
-- 🌎Remote research intern [@OrderLab](https://orderlab.io/), [UMich](https://umich.edu/)
+- 🎓Bachelor from Turing Class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
+- 🔍Research Interests: Distributed systems, HPC, Operating systems
 - 📫Contact me: [sitefan.official@gmail.com](mailto:sitefan.official@gmail.com)
 - 📖[My Blog](https://fanst.cc/)
 
