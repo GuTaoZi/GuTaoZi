@@ -2,7 +2,7 @@
 
 - 🎓Bachelor from Turing Class, [CSE](https://cse.sustech.edu.cn/en/), [SUSTech](https://www.sustech.edu.cn/en/)
 - 🔍Research Interests: Distributed systems, HPC, Operating systems
-- 📫Contact me: [sitefan.official@gmail.com](mailto:sitefan.official@gmail.com)
+- 📫Contact me: [fanst2021@mail.sustech.edu.cn](mailto:fanst2021@mail.sustech.edu.cn)
 - 📖[My Blog](https://fanst.cc/)
 
 <!--
